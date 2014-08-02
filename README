@@ -1,3 +1,2 @@
-A personal attempt to imitate the danmaku game - Touhou. 
+A personal attempt to imitate the danmaku game - Touhou using the Pygame module in Python.
 This project does not feature my great graphical capabilities as an artist, but it features AI and graphical programming.
-Also requires the Pygame library to run.
