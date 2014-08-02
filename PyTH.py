@@ -1,5 +1,6 @@
 #Organized in a Model-View-Controller format
 #With object-oriented organization as well
+#Needs installation of PyGame to run.
 
 import pygame, sys, os
 from pygame.locals import *
